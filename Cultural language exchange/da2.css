@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin:0;
+}
+header{
+    color:white;
+}
+#navbar {
+ height : 60px;
+ background-color: white;
+ color:Black;
+ border:black;
+}
+#logo{
+    color: #f08804;
+}
+#search{
+    background-color: red;
+}
+a{
+    margin-right:200px;
+    text-decoration: none;
+}
+.contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+input{
+    background-color: white;
+}
+footer{
+    color: white;
+    background-color:#0f1111; 
+    text-align: center;
+}
+#content{
+    height: 535px;
+}
+div{
+    margin:30px;
+    display:inline-block;
+}
+#header2{
+    height:30px;
+    width:60px;
+}
